@@ -1,0 +1,13 @@
+#map {
+    width: 95%;
+    height: 700px;
+    background: grey;
+}
+
+#panel {
+    width: 100%;
+    height: 350px;
+}
+body{
+    color: azure;
+}
